@@ -722,6 +722,12 @@ category 列表：
 
 </Route>
 
+## 南京农业大学
+
+### 南京农业大学教务处通知公告
+
+<Route author="aimereol" example="/njau/ttgg" path="/njau/ttgg" />
+
 ## 南京信息工程大学
 
 ::: tip 提示
